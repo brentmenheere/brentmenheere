@@ -1,4 +1,5 @@
-### Hi there 👋
+### About Me 👋
+- I'm a seconf year Electrical Engineering student at McMaster University
 
 <!--
 **brentmenheere/brentmenheere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
