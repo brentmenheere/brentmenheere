@@ -1,6 +1,7 @@
 ### About Me 👋
-- I'm a seconf year Electrical Engineering student at McMaster University
-
+- I'm a second year Electrical Engineering student at McMaster University ⚡
+- Incoming Electrical Engineering Designer at Melon INC Summer 2023
+- LinkedIn: https://www.linkedin.com/in/brentmenheere/
 <!--
 **brentmenheere/brentmenheere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
