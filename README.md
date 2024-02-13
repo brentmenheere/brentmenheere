@@ -1,5 +1,5 @@
 ### About Me 👋
-- Incoming third year Electrical Engineering student at McMaster University, September 2023 ⚡
+- Third year Electrical Engineering student at McMaster University⚡
 - LinkedIn: https://www.linkedin.com/in/brentmenheere/ 🌐
 <!--
 **brentmenheere/brentmenheere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
